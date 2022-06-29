@@ -5,6 +5,6 @@ description: Machine Learning
 role: undergrad
 group: current
 links:
-  email: upton@ogoode.com
+  email: 2100393020@email.szu.edu.cn
 ---
 some description
