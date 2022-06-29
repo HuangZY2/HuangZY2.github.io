@@ -7,9 +7,10 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our group is looking for a permanent postdoctoral fellow. 
-We welcome colleagues with research background in molecular cell biology, bioinformatics or chemical biology to join us.
-本课题组长期招聘博后，欢迎具有分子细胞生物学，生物信息学或化学生物学研究背景的同仁加入我们。
+The laboratory will be based on molecular biochemistry, featuring genome sequencing and epigenetic analysis tools, and its research will mainly include: 
+1. the establishment and maintenance mechanisms of DNA modification profiles in mammals; 
+2. the abnormal accumulation of DNA modification profiles in diseases such as organ aging and tumors and their molecular mechanisms; 
+3. the translational research on the application of nucleic acid modifications in the early diagnosis of tumors.
 
 {% include section.html %}
 
@@ -23,20 +24,22 @@ We welcome colleagues with research background in molecular cell biology, bioinf
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: undergrad"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: undergrad"
 %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is looking for a permanent postdoctoral fellow. 
+We welcome colleagues with research background in molecular cell biology, bioinformatics or chemical biology to join us.
+
+本课题组长期招聘博后，欢迎具有分子细胞生物学，生物信息学或化学生物学研究背景的同仁加入我们。
 
 {% include section.html %}
 
