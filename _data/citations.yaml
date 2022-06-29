@@ -24,12 +24,9 @@
   date: '2021-04-23'
   link: https://doi.org/gnmvc8
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/144d6abb-0979-4368-87f9-e337f9b43305/fx1.jpg
-  extra-links:
-  - type: manubot
-    link: https://huangzy2.github.io/DNA-methyltransferase-article/
   tags:
   - DNA methyltransferase
-  _cache: 8fa600c8606ae0738aa02604cdfe165c55df98bde4b6ceda991e95bdea1e6ee6
+  _cache: fbb52a1e5a6b1cbe67d8c972c75f141e0444ab994f1e4ebb33996305aa235598
 - id: doi:10.1021/acs.biochem.0c00339
   title: Genome-wide DNA Methylation Signatures Are Determined by DNMT3A/B Sequence
     Preferences
@@ -42,13 +39,9 @@
   date: '2020-06-16'
   link: https://doi.org/gg3w9h
   image: https://pubs.acs.org/cms/10.1021/acs.biochem.0c00339/asset/images/medium/bi0c00339_0006.gif
-  repo: huangzy2/Sequence-Preferences-article
-  extra-links:
-  - type: manubot
-    link: https://huangzy2.github.io//Sequence-Preferences-article/
-  - type: source
-    link: https://github.com/huangzy2/Sequence-Preferences-article
-  _cache: a5dfea35d4720325f251bb497676ba199c51548879fe3def072f2041a000fd6c
+  tags:
+  - Sequence Preferences
+  _cache: b3b0fcad82c08d00c5308f3a9690a76ddda26fc7f1fb3be25f9a067f239d4adc
 - id: doi:10.1038/s41594-018-0131-8
   title: DNA G-quadruplex structures mold the DNA methylome
   authors:
@@ -66,12 +59,37 @@
   date: '2018-10-01'
   link: https://doi.org/gffvkm
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41594-018-0131-8/MediaObjects/41594_2018_131_Fig1_HTML.png?as=webp
-  extra-links:
-  - type: manubot
-    link: https://huangzy2.github.io/G4-structures-article/
-  - type: source
-    link: https://github.com/huangzy2/G4-structures-article
-  - type: source
-    link: https://github.com/huangzy2/article
-    text: Analyses source
-  _cache: 5a06571c57b2fe732d79457798808c51a32b569eca465cd4a95713499042bc33
+  tags:
+  - CpG islands
+  - DNA G-quadruplex structures
+  _cache: 3e335a28cc251d1f7d81d63f5a1a49d204567f70dd99dc75cf263b97dd61d853
+- id: doi:10.1016/j.stem.2014.01.001
+  title: Tet and TDG Mediate DNA Demethylation Essential for Mesenchymal-to-Epithelial
+    Transition in Somatic Cell Reprogramming
+  authors:
+  - Xiao Hu
+  - Lei Zhang
+  - Shi-Qing Mao
+  - Zheng Li
+  - Jiekai Chen
+  - Run-Rui Zhang
+  - Hai-Ping Wu
+  - Juan Gao
+  - Fan Guo
+  - Wei Liu
+  - Gui-Fang Xu
+  - Hai-Qiang Dai
+  - "Yujiang\_Geno Shi"
+  - Xianlong Li
+  - Boqiang Hu
+  - Fuchou Tang
+  - Duanqing Pei
+  - Guo-Liang Xu
+  publisher: Cell Stem Cell
+  date: '2014-04-01'
+  link: https://doi.org/f5x4p7
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/fb14a177-a410-412a-8093-8048f69f8811/fx1.jpg
+  tags:
+  - DNA methyltransferase
+  - Cell Reprogramming
+  _cache: a622c6585af9a0cdcff66b13aca182482209fb8f46e25de72dd90b0f6a16e9b7
