@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our group is looking for a permanent postdoctoral fellow. 
+We welcome colleagues with research background in molecular cell biology, bioinformatics or chemical biology to join us.
+本课题组长期招聘博后，欢迎具有分子细胞生物学，生物信息学或化学生物学研究背景的同仁加入我们。
 
 {% include section.html %}
 
