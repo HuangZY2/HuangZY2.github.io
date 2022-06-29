@@ -24,13 +24,13 @@ The laboratory will be based on molecular biochemistry, featuring genome sequenc
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="name: Huang Zhuoyan"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="name: Deng Yulong"
 %}
 {:.center}
 
