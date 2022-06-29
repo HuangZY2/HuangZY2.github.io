@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Institute for Advanced Study](), at the school of [Shenzhen University]().
+Our lab is part of the [Institute for Advanced Study](https://ias.szu.edu.cn/index.htm), at the school of [Shenzhen University](https://www.szu.edu.cn).
 
 We are located on the 6th floor of the [625 of Zhizhi Building]().
 
