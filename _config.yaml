@@ -1,21 +1,24 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
-header: images/background.jpg
+title: Mao Shiqing Lab
+subtitle: at Shenzhen University
+description: Epigenetics research in the Mao Shiqing laboratory at Shenzhen University of Institute for Advanced Study.
+logo: none
+logo-text: True
+header: none
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
+# url: "https://HuangZY2.github.io"
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: msq@szu.edu.cn
+  google-scholar: none
   github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  twitter: none
+  instagram: none
+  youtube: none
 
 ### advanced settings
 
