@@ -32,6 +32,12 @@ The laboratory will be based on molecular biochemistry, featuring genome sequenc
   component="portrait"
   filters="name: Deng Yulong"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="name: Chen Yuhan"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -53,7 +59,7 @@ Our group is looking for a permanent postdoctoral fellow.
 - 。。。
 - 。。。
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://huangzy2.github.io/contact/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
