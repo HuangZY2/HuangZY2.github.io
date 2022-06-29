@@ -23,7 +23,7 @@ We are located on the 6th floor of the [625 of Zhizhi Building]().
   include link.html
   type="address"
   icon=""
-  text="Google Maps"
+  text="Amap Maps"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://ditu.amap.com/search?query=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E7%A0%94%E7%A9%B6%E9%99%A2&city=440300&geoobj=113.827858%7C22.383559%7C114.511728%7C22.724749&zoom=11.39"
   style="button"
