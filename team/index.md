@@ -45,13 +45,13 @@ We welcome colleagues with research background in molecular cell biology, bioinf
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Postdoctoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our group is looking for a permanent postdoctoral fellow. 
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- Already earned a PhD
+- 。。。
+- 。。。
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
