@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Institute for Advanced Study](), at the school of [Shenzhen University]().
+
 We are located on the 6th floor of the [625 of Zhizhi Building]().
 
 {%
