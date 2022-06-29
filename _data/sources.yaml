@@ -2,13 +2,12 @@
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/144d6abb-0979-4368-87f9-e337f9b43305/fx1.jpg
   date: 2021-4-23
   tags:
-    - DNA methyltransferase
+     - DNA methyltransferase
 
 - id: doi:10.1021/acs.biochem.0c00339
   image: https://pubs.acs.org/cms/10.1021/acs.biochem.0c00339/asset/images/medium/bi0c00339_0006.gif
-  repo: huangzy2/Sequence-Preferences-article
-   tags:
-     - Sequence Preferences
+  tags:
+    - Sequence Preferences
 
 - id: doi:10.1038/s41594-018-0131-8
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41594-018-0131-8/MediaObjects/41594_2018_131_Fig1_HTML.png?as=webp
