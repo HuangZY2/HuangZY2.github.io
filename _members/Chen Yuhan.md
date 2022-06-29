@@ -1,7 +1,7 @@
 ---
 name: Chen Yuhan
 image: images/member.jpg
-description: Machine Learning
+description: DNA methyltransferase
 role: undergrad
 group: current
 links:
