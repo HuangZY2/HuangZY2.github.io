@@ -1,28 +1,23 @@
 - id: doi:10.1016/j.celrep.2021.108776
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/144d6abb-0979-4368-87f9-e337f9b43305/fx1.jpg
   date: 2021-4-23
-  extra-links:
-    - type: manubot
-      link: https://huangzy2.github.io/DNA-methyltransferase-article/
   tags:
     - DNA methyltransferase
 
 - id: doi:10.1021/acs.biochem.0c00339
   image: https://pubs.acs.org/cms/10.1021/acs.biochem.0c00339/asset/images/medium/bi0c00339_0006.gif
   repo: huangzy2/Sequence-Preferences-article
-  extra-links:
-    - type: manubot
-      link: https://huangzy2.github.io//Sequence-Preferences-article/
-    - type: source
-      link: https://github.com/huangzy2/Sequence-Preferences-article
+   tags:
+     - Sequence Preferences
 
 - id: doi:10.1038/s41594-018-0131-8
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41594-018-0131-8/MediaObjects/41594_2018_131_Fig1_HTML.png?as=webp
-  extra-links:
-    - type: manubot
-      link: https://huangzy2.github.io/G4-structures-article/
-    - type: source
-      link: https://github.com/huangzy2/G4-structures-article
-    - type: source
-      link: https://github.com/huangzy2/article
-      text: Analyses source
+  tags:
+    - CpG islands
+    - DNA G-quadruplex structures
+     
+- id: doi:10.1016/j.stem.2014.01.001
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/fb14a177-a410-412a-8093-8048f69f8811/fx1.jpg
+  tags:
+    - DNA methyltransferase
+    - Cell Reprogramming
