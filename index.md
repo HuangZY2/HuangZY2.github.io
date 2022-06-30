@@ -38,7 +38,7 @@ We used comparative genomics, machine learning and other methods to reveal DNA m
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers that want to push the frontier of data science.
+We are a team of enthusiastic researchers that want to push the frontier of bioscience.
 We want to work together, and recognize the value of diversity in the process of discovery.
 
 {%
@@ -54,7 +54,7 @@ We want to work together, and recognize the value of diversity in the process of
   include feature.html
   image="none"
   link="team"
-  title="The next generation of data scientists"
+  title="Our TEAM"
   text=text
 %}
 
